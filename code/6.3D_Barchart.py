@@ -18,7 +18,7 @@ regions = columns_to_normalize
 algorithms = data["Algorithm"]
 
 chart = lc.Chart3D(
-    theme=lc.Themes.Dark,
+    theme=lc.Themes.Black,
     title="Normalized Values for Algorithms Across Regions"
 )
 
